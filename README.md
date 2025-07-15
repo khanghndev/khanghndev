@@ -94,12 +94,12 @@ const khang: Developer = {
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=HoangNgocKhang2004&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=20&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=ff6b6b&text_color=ffffff&ring_color=00d4ff"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangNgocKhang2004&layout=compact&langs_count=8&theme=react&border_radius=20&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=khanghndev&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=20&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=ff6b6b&text_color=ffffff&ring_color=00d4ff"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanghndev&layout=compact&langs_count=8&theme=react&border_radius=20&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoangNgocKhang2004&theme=react&hide_border=true&border_radius=20&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanghndev&theme=react&hide_border=true&border_radius=20&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -107,11 +107,11 @@ const khang: Developer = {
 ## 🏆 **Achievements & Activity**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HoangNgocKhang2004&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=khanghndev&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HoangNgocKhang2004&theme=react-dark&bg_color=0D1117&color=00d4ff&line=ff6b6b&point=00d4ff&area=true&hide_border=true&border_radius=20" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khanghndev&theme=react-dark&bg_color=0D1117&color=00d4ff&line=ff6b6b&point=00d4ff&area=true&hide_border=true&border_radius=20" alt="Activity Graph"/>
 </div>
 
 ---
