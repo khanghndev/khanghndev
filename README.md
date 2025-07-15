@@ -1,4 +1,4 @@
-# I'M HOANG NGOC KHANG
+# Hi There 👋, I'm Hoang Ngoc Khang
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=Backend%20Developer&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Building%20the%20future%20with%20code&descSize=20&descAlignY=50"/>
