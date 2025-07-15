@@ -76,10 +76,10 @@ const khang: Developer = {
 <img src="https://skillicons.dev/icons?i=dotnet,cs,python,nodejs,flask,fastapi,express&theme=dark" alt="Backend Technologies"/>
 
 ### **Frontend & Mobile**
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,html,css,tailwind&theme=dark" alt="Frontend Technologies"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,html,css&theme=dark" alt="Frontend Technologies"/>
 
 ### **Database & Cloud**
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,azure,aws,docker&theme=dark" alt="Database & Cloud"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,azure,aws&theme=dark" alt="Database & Cloud"/>
 
 ### **AI & Machine Learning**
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,opencv&theme=dark" alt="AI/ML Technologies"/>
