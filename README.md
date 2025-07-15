@@ -85,7 +85,7 @@ const khang: Developer = {
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,opencv&theme=dark" alt="AI/ML Technologies"/>
 
 ### **Development Tools**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,linux&theme=dark" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman&theme=dark" alt="Development Tools"/>
 
 </div>
 
