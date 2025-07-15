@@ -1,172 +1,155 @@
-# Hi there, I'm Khang! 👋
+# 🚀 Hoàng Ngọc Khang
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hoàng%20Ngọc%20Khang&fontSize=50&fontColor=fff&animation=fadeIn&desc=Back-End%20Developer%20|%20AI%20Enthusiast%20|%20Problem%20Solver&descSize=20&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=Backend%20Developer&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Building%20the%20future%20with%20code&descSize=20&descAlignY=50"/>
 </div>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=60&lines=🚀+Back-End+Developer+Intern;💻+Flutter+%26+AI+Enthusiast;🔥+Building+Scalable+Solutions;🌟+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=80&lines=💻+Backend+Developer+%7C+AI+Enthusiast;🔥+Building+Scalable+Solutions;🌟+Open+Source+Contributor;⚡+Performance+Optimization+Expert" alt="Typing SVG" />
 </div>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HoangNgocKhang2004&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HoangNgocKhang2004&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile views" />
   <a href="https://github.com/HoangNgocKhang2004">
-    <img src="https://img.shields.io/github/followers/HoangNgocKhang2004?label=Followers&style=flat-square&color=667eea&logo=github" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/HoangNgocKhang2004?label=Followers&style=for-the-badge&color=00d4ff&logo=github&logoColor=white" alt="GitHub Followers"/>
   </a>
-  <img src="https://img.shields.io/github/stars/HoangNgocKhang2004?style=flat-square&color=f093fb&logo=github" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/stars/HoangNgocKhang2004?style=for-the-badge&color=ff6b6b&logo=github&logoColor=white" alt="GitHub Stars"/>
 </div>
-<br>
 
-## About Me
+---
 
-<img align="right" alt="Coding Animation" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+## 🎯 **About Me**
+
+<img align="right" alt="Coding Animation" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```typescript
 interface Developer {
   name: string;
   role: string;
   location: string;
-  currentFocus: string[];
-  passions: string[];
-  motto: string;
+  experience: string;
+  specialties: string[];
+  currentProjects: string[];
+  goals: string[];
 }
 
 const khang: Developer = {
   name: "Hoàng Ngọc Khang",
-  role: "Back-End Developer Intern",
+  role: "Backend Developer & AI Enthusiast",
   location: "Ho Chi Minh City, Vietnam 🇻🇳",
-  currentFocus: [
-    "Backend Development with ASP.NET Core",
-    "Mobile Applications with Flutter",
-    "AI/ML Solutions Integration"
+  experience: "Building scalable solutions",
+  specialties: [
+    "ASP.NET Core Architecture",
+    "Flutter Development",
+    "Machine Learning Integration",
+    "System Design"
   ],
-  passions: [
-    "Clean Architecture",
-    "System Design",
-    "Problem Solving",
-    "Open Source Contributing"
+  currentProjects: [
+    "Enterprise Backend Systems",
+    "Cross-platform Mobile Apps",
+    "AI-powered Solutions"
   ],
-  motto: "Code with passion, build with purpose!"
+  goals: [
+    "Master Cloud Architecture",
+    "Contribute to Open Source",
+    "Lead Technical Teams"
+  ]
 };
 ```
 
-**Currently working on:** Backend systems with ASP.NET Core & Flutter mobile apps  
-**Learning:** Advanced Flutter, TensorFlow, Cloud Architecture  
-**Looking to collaborate on:** Open Source Projects & Innovative Solutions  
-**Ask me about:** Backend Development, Mobile Apps, AI/ML  
-**Reach me:** [Email](mailto:hoangngockhang.huit@gmail.com)  
-**Fun fact:** I debug code faster than I fix my sleep schedule!
+<br clear="right"/>
+
+**🔭 Currently working on:** Enterprise backend systems with ASP.NET Core & Flutter mobile applications  
+**🌱 Learning:** Advanced system design, microservices, and cloud architecture  
+**👯 Looking to collaborate on:** Open source projects and innovative tech solutions  
+**💬 Ask me about:** Backend development, mobile apps, AI/ML integration  
+**📫 Reach me:** [hoangngockhang.huit@gmail.com](mailto:hoangngockhang.huit@gmail.com)  
+**⚡ Fun fact:** I optimize code performance faster than I optimize my coffee consumption!
 
 ---
 
-## Tech Stack
+## 🛠️ **Tech Arsenal**
 
-### **Backend Development**
 <div align="center">
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-</div>
+
+### **Backend & API Development**
+<img src="https://skillicons.dev/icons?i=dotnet,cs,python,nodejs,flask,fastapi,express&theme=dark" alt="Backend Technologies"/>
 
 ### **Frontend & Mobile**
-<div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</div>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,html,css,tailwind&theme=dark" alt="Frontend Technologies"/>
 
 ### **Database & Cloud**
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</div>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,azure,aws,docker&theme=dark" alt="Database & Cloud"/>
 
 ### **AI & Machine Learning**
-<div align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-</div>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,opencv&theme=dark" alt="AI/ML Technologies"/>
 
-### **Tools & Technologies**
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+### **Development Tools**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,linux&theme=dark" alt="Development Tools"/>
+
 </div>
 
 ---
 
-## GitHub Analytics
+## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HoangNgocKhang2004&show_icons=true&theme=gradient&include_all_commits=true&count_private=true&border_radius=15&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangNgocKhang2004&layout=compact&langs_count=8&theme=gradient&border_radius=15&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=HoangNgocKhang2004&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=20&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=ff6b6b&text_color=ffffff&ring_color=00d4ff"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangNgocKhang2004&layout=compact&langs_count=8&theme=react&border_radius=20&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoangNgocKhang2004&theme=highcontrast&hide_border=true&border_radius=15&ring=667eea&fire=f093fb&currStreakLabel=667eea&background=0D1117" alt="GitHub Streak"/>
-</div>
-
----
-
-## GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HoangNgocKhang2004&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoangNgocKhang2004&theme=react&hide_border=true&border_radius=20&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## Contribution Activity
+## 🏆 **Achievements & Activity**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HoangNgocKhang2004&theme=react-dark&bg_color=0D1117&color=667eea&line=f093fb&point=667eea&area=true&hide_border=true&border_radius=15" alt="Activity Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=HoangNgocKhang2004&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HoangNgocKhang2004&theme=react-dark&bg_color=0D1117&color=00d4ff&line=ff6b6b&point=00d4ff&area=true&hide_border=true&border_radius=20" alt="Activity Graph"/>
 </div>
 
 ---
 
-## Current Focus & Future Goals
+## 🎯 **Current Focus & Roadmap**
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/-Current_Focus-667eea?style=for-the-badge" alt="Current Focus"/>
+        <img src="https://img.shields.io/badge/-🔥_Current_Focus-00d4ff?style=for-the-badge&labelColor=0D1117" alt="Current Focus"/>
         <br><br>
-        <strong>Backend Development</strong><br>
-        Building robust APIs with ASP.NET Core<br><br>
-        <strong>Mobile Development</strong><br>
-        Creating cross-platform apps with Flutter<br><br>
-        <strong>AI Integration</strong><br>
-        Implementing ML solutions in applications
+        <strong>🏗️ Backend Architecture</strong><br>
+        Building enterprise-grade APIs with ASP.NET Core<br><br>
+        <strong>📱 Mobile Development</strong><br>
+        Creating performant Flutter applications<br><br>
+        <strong>🤖 AI Integration</strong><br>
+        Implementing ML solutions in real-world apps
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/-Learning_Next-f093fb?style=for-the-badge" alt="Learning Next"/>
+        <img src="https://img.shields.io/badge/-🚀_Learning_Next-ff6b6b?style=for-the-badge&labelColor=0D1117" alt="Learning Next"/>
         <br><br>
-        <strong>Cloud Architecture</strong><br>
-        AWS, Azure, and microservices<br><br>
-        <strong>DevOps</strong><br>
-        CI/CD pipelines and containerization<br><br>
-        <strong>Advanced AI</strong><br>
+        <strong>☁️ Cloud Architecture</strong><br>
+        AWS, Azure, and microservices patterns<br><br>
+        <strong>🔧 DevOps & CI/CD</strong><br>
+        Docker, Kubernetes, and automation<br><br>
+        <strong>🧠 Advanced AI</strong><br>
         Deep learning and neural networks
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/-Future_Goals-764ba2?style=for-the-badge" alt="Future Goals"/>
+        <img src="https://img.shields.io/badge/-🎯_Future_Goals-4ecdc4?style=for-the-badge&labelColor=0D1117" alt="Future Goals"/>
         <br><br>
-        <strong>Full-Stack Mastery</strong><br>
-        End-to-end application development<br><br>
-        <strong>Open Source</strong><br>
+        <strong>🌟 Technical Leadership</strong><br>
+        Leading development teams and mentoring<br><br>
+        <strong>💡 Open Source Impact</strong><br>
         Contributing to major projects<br><br>
-        <strong>Tech Leadership</strong><br>
-        Mentoring and leading teams
+        <strong>🚀 Innovation</strong><br>
+        Building next-generation solutions
       </td>
     </tr>
   </table>
@@ -174,42 +157,42 @@ const khang: Developer = {
 
 ---
 
-## Connect With Me
+## 🌐 **Connect & Collaborate**
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="mailto:hoangngockhang.huit@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" alt="Twitter"/>
   </a>
   <a href="https://discord.com/users/your-id">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="Discord"/>
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Code%20is%20poetry%20written%20in%20logic&author=Hoàng%20Ngọc%20Khang" alt="Quote"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=fadeIn&desc=Let's%20build%20something%20amazing%20together!&descSize=16&descAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=fadeIn&desc=Let's%20innovate%20together&descSize=16&descAlignY=70"/>
 </div>
 
 <div align="center">
-  <h3>💫 "Code is poetry written in logic" 💫</h3>
-  <p><strong>Open for opportunities | Always ready to collaborate | Let's innovate together!</strong></p>
+  <h3>🌟 "Building the future, one line of code at a time" 🌟</h3>
+  <p><strong>Open for collaborations | Always learning | Ready to innovate!</strong></p>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=50&lines=Thank+you+for+visiting+my+profile!;Feel+free+to+reach+out+anytime!;Let's+create+something+incredible+together!" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=60&lines=💫+Thanks+for+visiting+my+profile!;🤝+Let's+connect+and+build+together!;🚀+Always+ready+for+new+challenges!" alt="Footer Typing SVG" />
 </div>
