@@ -9,11 +9,11 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HoangNgocKhang2004&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=khanghndev&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile views" />
   <a href="https://github.com/HoangNgocKhang2004">
-    <img src="https://img.shields.io/github/followers/HoangNgocKhang2004?label=Followers&style=for-the-badge&color=00d4ff&logo=github&logoColor=white" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/khanghndev?label=Followers&style=for-the-badge&color=00d4ff&logo=github&logoColor=white" alt="GitHub Followers"/>
   </a>
-  <img src="https://img.shields.io/github/stars/HoangNgocKhang2004?style=for-the-badge&color=ff6b6b&logo=github&logoColor=white" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/stars/khanghndev?style=for-the-badge&color=ff6b6b&logo=github&logoColor=white" alt="GitHub Stars"/>
 </div>
 
 ---
