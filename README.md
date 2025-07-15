@@ -1,4 +1,4 @@
-# 🚀 Hoàng Ngọc Khang
+# I'M HOANG NGOC KHANG
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=Backend%20Developer&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Building%20the%20future%20with%20code&descSize=20&descAlignY=50"/>
@@ -18,7 +18,7 @@
 
 ---
 
-## 🎯 **About Me**
+## **About Me**
 
 <img align="right" alt="Coding Animation" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
@@ -59,16 +59,16 @@ const khang: Developer = {
 
 <br clear="right"/>
 
-**🔭 Currently working on:** Enterprise backend systems with ASP.NET Core & Flutter mobile applications  
-**🌱 Learning:** Advanced system design, microservices, and cloud architecture  
-**👯 Looking to collaborate on:** Open source projects and innovative tech solutions  
-**💬 Ask me about:** Backend development, mobile apps, AI/ML integration  
-**📫 Reach me:** [hoangngockhang.huit@gmail.com](mailto:hoangngockhang.huit@gmail.com)  
-**⚡ Fun fact:** I optimize code performance faster than I optimize my coffee consumption!
+**Currently working on:** Enterprise backend systems with ASP.NET Core & Flutter mobile applications  
+**Learning:** Advanced system design, microservices, and cloud architecture  
+**Looking to collaborate on:** Open source projects and innovative tech solutions  
+**Ask me about:** Backend development, mobile apps, AI/ML integration  
+**Reach me:** [hoangngockhang.huit@gmail.com](mailto:hoangngockhang.huit@gmail.com)  
+**Fun fact:** I optimize code performance faster than I optimize my coffee consumption!
 
 ---
 
-## 🛠️ **Tech Arsenal**
+## **Tech Arsenal**
 
 <div align="center">
 
@@ -91,7 +91,7 @@ const khang: Developer = {
 
 ---
 
-## 📊 **GitHub Analytics**
+## **GitHub Analytics**
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=khanghndev&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=20&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=ff6b6b&text_color=ffffff&ring_color=00d4ff"/>
@@ -104,7 +104,7 @@ const khang: Developer = {
 
 ---
 
-## 🏆 **Achievements & Activity**
+## **Achievements & Activity**
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=khanghndev&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
@@ -116,7 +116,7 @@ const khang: Developer = {
 
 ---
 
-## 🎯 **Current Focus & Roadmap**
+## **Current Focus & Roadmap**
 
 <div align="center">
   <table>
@@ -124,31 +124,31 @@ const khang: Developer = {
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/-🔥_Current_Focus-00d4ff?style=for-the-badge&labelColor=0D1117" alt="Current Focus"/>
         <br><br>
-        <strong>🏗️ Backend Architecture</strong><br>
+        <strong>Backend Architecture</strong><br>
         Building enterprise-grade APIs with ASP.NET Core<br><br>
-        <strong>📱 Mobile Development</strong><br>
+        <strong>Mobile Development</strong><br>
         Creating performant Flutter applications<br><br>
-        <strong>🤖 AI Integration</strong><br>
+        <strong>AI Integration</strong><br>
         Implementing ML solutions in real-world apps
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/-🚀_Learning_Next-ff6b6b?style=for-the-badge&labelColor=0D1117" alt="Learning Next"/>
         <br><br>
-        <strong>☁️ Cloud Architecture</strong><br>
+        <strong>Cloud Architecture</strong><br>
         AWS, Azure, and microservices patterns<br><br>
-        <strong>🔧 DevOps & CI/CD</strong><br>
+        <strong>DevOps & CI/CD</strong><br>
         Docker, Kubernetes, and automation<br><br>
-        <strong>🧠 Advanced AI</strong><br>
+        <strong>Advanced AI</strong><br>
         Deep learning and neural networks
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/-🎯_Future_Goals-4ecdc4?style=for-the-badge&labelColor=0D1117" alt="Future Goals"/>
         <br><br>
-        <strong>🌟 Technical Leadership</strong><br>
+        <strong>Technical Leadership</strong><br>
         Leading development teams and mentoring<br><br>
-        <strong>💡 Open Source Impact</strong><br>
+        <strong>Open Source Impact</strong><br>
         Contributing to major projects<br><br>
-        <strong>🚀 Innovation</strong><br>
+        <strong>Innovation</strong><br>
         Building next-generation solutions
       </td>
     </tr>
@@ -157,7 +157,7 @@ const khang: Developer = {
 
 ---
 
-## 🌐 **Connect & Collaborate**
+## **Connect & Collaborate**
 
 <div align="center">
   <a href="mailto:hoangngockhang.huit@gmail.com">
