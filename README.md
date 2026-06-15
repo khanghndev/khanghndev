@@ -1,11 +1,11 @@
 # Hi There 👋, I'm Hoang Ngoc Khang
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=Backend%20Developer&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Building%20the%20future%20with%20code&descSize=20&descAlignY=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=300&section=header&text=IT%20Support%20Specialist&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Keeping%20systems%20running%20smoothly&descSize=20&descAlignY=50"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=80&lines=💻+Backend+Developer+%7C+AI+Enthusiast;🔥+Building+Scalable+Solutions;🌟+Open+Source+Contributor;⚡+Performance+Optimization+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=80&lines=🖥️+IT+Support+Specialist;🔧+Hardware+%26+Software+Troubleshooting;🌐+Network+Administration;🛡️+System+Security+%26+Maintenance" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,7 +13,6 @@
   <a href="https://github.com/HoangNgocKhang2004">
     <img src="https://img.shields.io/github/followers/khanghndev?label=Followers&style=for-the-badge&color=00d4ff&logo=github&logoColor=white" alt="GitHub Followers"/>
   </a>
-  <img src="https://img.shields.io/github/stars/khanghndev?style=for-the-badge&color=ff6b6b&logo=github&logoColor=white" alt="GitHub Stars"/>
 </div>
 
 ---
@@ -23,48 +22,48 @@
 <img align="right" alt="Coding Animation" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```typescript
-interface Developer {
+interface Specialist {
   name: string;
   role: string;
   location: string;
   experience: string;
   specialties: string[];
-  currentProjects: string[];
+  currentFocus: string[];
   goals: string[];
 }
 
-const khang: Developer = {
+const khang: Specialist = {
   name: "Hoàng Ngọc Khang",
-  role: "Backend Developer & AI Enthusiast",
+  role: "IT Support Specialist",
   location: "Ho Chi Minh City, Vietnam 🇻🇳",
-  experience: "Building scalable solutions",
+  experience: "Ensuring seamless IT operations",
   specialties: [
-    "ASP.NET Core Architecture",
-    "Flutter Development",
-    "Machine Learning Integration",
-    "System Design"
+    "Technical Support",
+    "Network Configuration",
+    "Hardware Troubleshooting",
+    "System Administration"
   ],
-  currentProjects: [
-    "Enterprise Backend Systems",
-    "Cross-platform Mobile Apps",
-    "AI-powered Solutions"
+  currentFocus: [
+    "Helpdesk Management",
+    "IT Infrastructure",
+    "User Support"
   ],
   goals: [
-    "Master Cloud Architecture",
-    "Contribute to Open Source",
-    "Lead Technical Teams"
+    "Master Cloud Infrastructure",
+    "Improve IT Efficiency",
+    "Ensure Zero Downtime"
   ]
 };
 ```
 
 <br clear="right"/>
 
-**Currently working on:** Enterprise backend systems with ASP.NET Core & Flutter mobile applications  
-**Learning:** Advanced system design, microservices, and cloud architecture  
-**Looking to collaborate on:** Open source projects and innovative tech solutions  
-**Ask me about:** Backend development, mobile apps, AI/ML integration  
+**Currently working on:** Providing technical assistance and managing IT infrastructure  
+**Learning:** Advanced network security, cloud administration, and automation  
+**Looking to collaborate on:** IT solutions and system optimization  
+**Ask me about:** Technical troubleshooting, network setups, hardware issues  
 **Reach me:** [hoangngockhang.huit@gmail.com](mailto:hoangngockhang.huit@gmail.com)  
-**Fun fact:** I optimize code performance faster than I optimize my coffee consumption!
+**Fun fact:** I can troubleshoot a network issue faster than you can say "Did you try turning it off and on again?"
 
 ---
 
@@ -72,46 +71,15 @@ const khang: Developer = {
 
 <div align="center">
 
-### **Backend & API Development**
-<img src="https://skillicons.dev/icons?i=dotnet,cs,python,nodejs,flask,fastapi,express&theme=dark" alt="Backend Technologies"/>
+### **Operating Systems**
+<img src="https://skillicons.dev/icons?i=windows,linux,apple,ubuntu&theme=dark" alt="OS Technologies"/>
 
-### **Frontend & Mobile**
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,html,css&theme=dark" alt="Frontend Technologies"/>
+### **Networking & Infrastructure**
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,nginx&theme=dark" alt="Infrastructure"/>
 
-### **Database & Cloud**
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,azure,aws&theme=dark" alt="Database & Cloud"/>
+### **Tools & Administration**
+<img src="https://skillicons.dev/icons?i=bash,powershell,git,github&theme=dark" alt="Tools"/>
 
-### **AI & Machine Learning**
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,opencv&theme=dark" alt="AI/ML Technologies"/>
-
-### **Development Tools**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman&theme=dark" alt="Development Tools"/>
-
-</div>
-
----
-
-## **GitHub Analytics**
-
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=khanghndev&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=20&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=ff6b6b&text_color=ffffff&ring_color=00d4ff"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanghndev&layout=compact&langs_count=8&theme=react&border_radius=20&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanghndev&theme=react&hide_border=true&border_radius=20&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&background=0D1117" alt="GitHub Streak"/>
-</div>
-
----
-
-## **Achievements & Activity**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khanghndev&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khanghndev&theme=react-dark&bg_color=0D1117&color=00d4ff&line=ff6b6b&point=00d4ff&area=true&hide_border=true&border_radius=20" alt="Activity Graph"/>
 </div>
 
 ---
@@ -124,32 +92,26 @@ const khang: Developer = {
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/-🔥_Current_Focus-00d4ff?style=for-the-badge&labelColor=0D1117" alt="Current Focus"/>
         <br><br>
-        <strong>Backend Architecture</strong><br>
-        Building enterprise-grade APIs with ASP.NET Core<br><br>
-        <strong>Mobile Development</strong><br>
-        Creating performant Flutter applications<br><br>
-        <strong>AI Integration</strong><br>
-        Implementing ML solutions in real-world apps
+        <strong>Technical Support</strong><br>
+        Resolving hardware and software issues efficiently<br><br>
+        <strong>System Admin</strong><br>
+        Managing and maintaining IT infrastructure
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/-🚀_Learning_Next-ff6b6b?style=for-the-badge&labelColor=0D1117" alt="Learning Next"/>
         <br><br>
-        <strong>Cloud Architecture</strong><br>
-        AWS, Azure, and microservices patterns<br><br>
-        <strong>DevOps & CI/CD</strong><br>
-        Docker, Kubernetes, and automation<br><br>
-        <strong>Advanced AI</strong><br>
-        Deep learning and neural networks
+        <strong>Cloud Services</strong><br>
+        AWS and Azure administration<br><br>
+        <strong>Security</strong><br>
+        Network security and data protection
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/-🎯_Future_Goals-4ecdc4?style=for-the-badge&labelColor=0D1117" alt="Future Goals"/>
         <br><br>
-        <strong>Technical Leadership</strong><br>
-        Leading development teams and mentoring<br><br>
-        <strong>Open Source Impact</strong><br>
-        Contributing to major projects<br><br>
-        <strong>Innovation</strong><br>
-        Building next-generation solutions
+        <strong>IT Leadership</strong><br>
+        Managing IT support teams<br><br>
+        <strong>Automation</strong><br>
+        Streamlining IT operations
       </td>
     </tr>
   </table>
@@ -177,22 +139,20 @@ const khang: Developer = {
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Code%20is%20poetry%20written%20in%20logic&author=Hoàng%20Ngọc%20Khang" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Have%20you%20tried%20turning%20it%20off%20and%20on%20again%3F&author=IT%20Support" alt="Quote"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=fadeIn&desc=Let's%20innovate%20together&descSize=16&descAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=fadeIn&desc=Keeping%20systems%20up%20and%20running!&descSize=16&descAlignY=70"/>
 </div>
 
 <div align="center">
-  <h3>🌟 "Building the future, one line of code at a time" 🌟</h3>
-  <p><strong>Open for collaborations | Always learning | Ready to innovate!</strong></p>
+  <h3>🌟 "Keeping systems up and running, one ticket at a time" 🌟</h3>
+  <p><strong>Ready to troubleshoot | Always learning!</strong></p>
 </div>
 
----
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=60&lines=💫+Thanks+for+visiting+my+profile!;🤝+Let's+connect+and+build+together!;🚀+Always+ready+for+new+challenges!" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=60&lines=💫+Thanks+for+visiting+my+profile!;🤝+Let's+connect!;🚀+Always+ready+for+new+challenges!" alt="Footer Typing SVG" />
 </div>
